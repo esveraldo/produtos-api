@@ -1,0 +1,28 @@
+{
+  "name": "produtos-api",
+  "version": "1.0.0",
+  "description": "aks-exercicio  aks-cluster-aula05  D2ps_v6  aksexercicio-sergio  user_aksexercicio pass_aksexercicio1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/esveraldo/produtos-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/esveraldo/produtos-api/issues"
+  },
+  "homepage": "https://github.com/esveraldo/produtos-api#readme",
+  "dependencies": {
+    "dotenv": "^17.2.4",
+    "express": "^5.2.1",
+    "pg": "^8.18.0",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.1"
+  }
+}
